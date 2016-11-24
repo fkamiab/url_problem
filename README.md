@@ -8,4 +8,6 @@ The file, containing the URLs should be a plaintext file, with the URL of an ima
 ## Running the Code
 In order to run the code, use python 2.7, and in the command line, type:
 
-~~~~ python image_download.py *path_to_URL_textfile*  ~~~~
+~~~~
+python image_download.py *path_to_URL_textfile*
+~~~~
