@@ -9,5 +9,11 @@ The file, containing the URLs should be a plaintext file, with the URL of an ima
 In order to run the code, use python 2.7, and in the command line, type:
 
 ~~~~
-python image_download.py *path_to_URL_textfile*
+python image_download.py path_to_URL_textfile
+~~~~
+
+For example, if you are using the local [URLS.txt](https://github.com/fkamiab/url_problem/blob/master/URLs/URLs.txt) file, type:
+
+~~~~
+python image_download.py ./URLs/URLs.txt
 ~~~~
