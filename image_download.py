@@ -1,5 +1,5 @@
 # Author: Farbod Kamiab
-# Code that takes a plaintext file as an argument and downloads all images, storing them on the local hard disk
+# Code that takes a plaintext file containing the URL of various images in each line, as an argument and downloads all images, storing them on the local hard disk
 
 import sys
 import os
