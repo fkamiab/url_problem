@@ -31,11 +31,11 @@ The code creates two local directories (if they do not already exist):
 and
 
 ~~~~
-./ERROR_LOG.
+./ERROR_LOG
 ~~~~
 
 
-
+The downloaded images, will be in the `./IMAGES` folder. If an image is faulty, the code does not include it. The errors (either the urls of faulty images or inaccsessible urls) are saved in an `error_log.txt` file in the `ERROR_LOG` directory.
 
 
 
