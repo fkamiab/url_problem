@@ -1,0 +1,5 @@
+The image in the following URLs is not a valid image:
+http://mywebserver.com/images/271947.jpg
+http://mywebserver.com/images/24174.jpg
+The following URLs could not be reached:
+http://somewebsrv.com/img/992147.jpg

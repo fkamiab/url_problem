@@ -17,3 +17,25 @@ For example, if you are using the local [URLS.txt](https://github.com/fkamiab/ur
 ~~~~
 python image_download.py ./URLs/URLs.txt
 ~~~~
+
+If the pathname or filename are wrong, the code will prompt you with an error message.
+
+## Output
+
+The code creates two local directories (if they do not already exist):
+
+~~~~
+./IMAGES
+~~~~
+
+and
+
+~~~~
+./ERROR_LOG.
+~~~~
+
+
+
+
+
+
