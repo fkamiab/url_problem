@@ -35,7 +35,7 @@ and
 ~~~~
 
 
-The downloaded images, will be in the `./IMAGES` folder. If an image is faulty, the code does not include it. The errors (either the urls of faulty images or inaccsessible urls) are saved in an `error_log.txt` file in the `ERROR_LOG` directory.
+The downloaded images, will be in the `./IMAGES` folder. If an image is faulty, the code does not include it. The errors (either the urls of faulty images or inaccessible urls) are saved in an `error_log.txt` file in the `ERROR_LOG` directory.
 
 
 
